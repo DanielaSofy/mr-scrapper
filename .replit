@@ -1,0 +1,2 @@
+language = "clojure"
+run = "[mr-scrapper \"0.1.0-SNAPSHOT\"]"
